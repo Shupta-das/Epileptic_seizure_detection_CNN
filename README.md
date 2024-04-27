@@ -1,4 +1,4 @@
-# Epileptic_seizure_detection_CNN
+# Seizure Detection from Decomposed EEG Signal through 1D and 2D Feature Representation and Convolutional Neural Network
 ## Overview
 This study investigates the well-performed EEG-based ES detection method by decomposing EEG signals.
 ## Prerequisites
